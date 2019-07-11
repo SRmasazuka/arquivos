@@ -1,4 +1,43 @@
 <item>
+<title>[B][COLOR yellow]Rede TV [/COLOR] [COLOR blue]SD[/COLOR][/B]</title>
+<link>http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8</link>
+<thumbnail>https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/09/rede-tv.jpg</thumbnail>
+<fanart>https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/09/rede-tv.jpg</fanart>
+<info>
+[B]QUER TER UM SERVIÇO DE QUALIDADE SEM TRAVAMENTOS OU QUEDAS?[/B]
+[B]NÓS TEMOS A SOLUÇÃO ![/B]
+[B]FAÇA UM TESTE JÁ DE 2 HORAS E COMPROVE ![/B]
+[B]CONTATO [COLOR green]WHATSAPP[/COLOR] (21) 98311-9461[/B]
+</info>
+</item>
+
+<item>
+<title>[B][COLOR yellow]TV Gazeta [/COLOR] [COLOR blue]SD[/COLOR][/B]</title>
+<link>http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8</link>
+<thumbnail>http://gruporecol.net/v/wp-content/uploads/2017/12/tv_gazeta_470x440.jpg</thumbnail>
+<fanart>http://gruporecol.net/v/wp-content/uploads/2017/12/tv_gazeta_470x440.jpg</fanart>
+<info>
+[B]QUER TER UM SERVIÇO DE QUALIDADE SEM TRAVAMENTOS OU QUEDAS?[/B]
+[B]NÓS TEMOS A SOLUÇÃO ![/B]
+[B]FAÇA UM TESTE JÁ DE 2 HORAS E COMPROVE ![/B]
+[B]CONTATO [COLOR green]WHATSAPP[/COLOR] (21) 98311-9461[/B]
+</info>
+</item>
+
+<item>
+<title>[B][COLOR yellow]TV Pioneira [/COLOR] [COLOR blue]SD[/COLOR][/B]</title>
+<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8</link>
+<thumbnail>https://vignette.wikia.nocookie.net/televisoesficticias/images/1/1e/TV_Pioneira_Logomarca_2018.png/revision/latest?cb=20180404203150&path-prefix=pt</thumbnail>
+<fanart>https://vignette.wikia.nocookie.net/televisoesficticias/images/1/1e/TV_Pioneira_Logomarca_2018.png/revision/latest?cb=20180404203150&path-prefix=pt</fanart>
+<info>
+[B]QUER TER UM SERVIÇO DE QUALIDADE SEM TRAVAMENTOS OU QUEDAS?[/B]
+[B]NÓS TEMOS A SOLUÇÃO ![/B]
+[B]FAÇA UM TESTE JÁ DE 2 HORAS E COMPROVE ![/B]
+[B]CONTATO [COLOR green]WHATSAPP[/COLOR] (21) 98311-9461[/B]
+</info>
+</item>
+
+<item>
 <title>[B][COLOR yellow]CANAL RICOS [/COLOR] [COLOR blue]SD[/COLOR][/B]</title>
 <link>http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8</link>
 <thumbnail>https://http2.mlstatic.com/tv-online-full-hd-ondemand-1000-canais-2000-filmes-e-series-D_NQ_NP_952385-MLB29830784020_042019-Q.jpg</thumbnail>
@@ -66,32 +105,6 @@
 <item>
 <title>[B][COLOR yellow]VH1 MEGAHITS [/COLOR] [COLOR blue]SD[/COLOR][/B]</title>
 <link>http://stream.1music.hu/stream/1music.m3u8</link>
-<thumbnail>https://http2.mlstatic.com/tv-online-full-hd-ondemand-1000-canais-2000-filmes-e-series-D_NQ_NP_952385-MLB29830784020_042019-Q.jpg</thumbnail>
-<fanart>https://http2.mlstatic.com/tv-online-full-hd-ondemand-1000-canais-2000-filmes-e-series-D_NQ_NP_952385-MLB29830784020_042019-Q.jpg</fanart>
-<info>
-[B]QUER TER UM SERVIÇO DE QUALIDADE SEM TRAVAMENTOS OU QUEDAS?[/B]
-[B]NÓS TEMOS A SOLUÇÃO ![/B]
-[B]FAÇA UM TESTE JÁ DE 2 HORAS E COMPROVE ![/B]
-[B]CONTATO [COLOR green]WHATSAPP[/COLOR] (21) 982893239[/B]
-</info>
-</item>
-
-<item>
-<title>[B][COLOR yellow]PLANETA HD [/COLOR] [COLOR blue]SD[/COLOR][/B]</title>
-<link>http://84.43.207.130/planetahd/planetahd.m3u8</link>
-<thumbnail>https://http2.mlstatic.com/tv-online-full-hd-ondemand-1000-canais-2000-filmes-e-series-D_NQ_NP_952385-MLB29830784020_042019-Q.jpg</thumbnail>
-<fanart>https://http2.mlstatic.com/tv-online-full-hd-ondemand-1000-canais-2000-filmes-e-series-D_NQ_NP_952385-MLB29830784020_042019-Q.jpg</fanart>
-<info>
-[B]QUER TER UM SERVIÇO DE QUALIDADE SEM TRAVAMENTOS OU QUEDAS?[/B]
-[B]NÓS TEMOS A SOLUÇÃO ![/B]
-[B]FAÇA UM TESTE JÁ DE 2 HORAS E COMPROVE ![/B]
-[B]CONTATO [COLOR green]WHATSAPP[/COLOR] (21) 982893239[/B]
-</info>
-</item>
-
-<item>
-<title>[B][COLOR yellow]TV5 MONDE [/COLOR] [COLOR blue]SD[/COLOR][/B]</title>
-<link>http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8</link>
 <thumbnail>https://http2.mlstatic.com/tv-online-full-hd-ondemand-1000-canais-2000-filmes-e-series-D_NQ_NP_952385-MLB29830784020_042019-Q.jpg</thumbnail>
 <fanart>https://http2.mlstatic.com/tv-online-full-hd-ondemand-1000-canais-2000-filmes-e-series-D_NQ_NP_952385-MLB29830784020_042019-Q.jpg</fanart>
 <info>
